@@ -96,7 +96,7 @@ The project focuses on basic e-commerce functionality using local/mock data.
 ## AI Tools Used
 
 * ChatGPT
-* Copilot
+* GitHub Copilot
 
 ---
 
@@ -112,6 +112,7 @@ AI tools were used for:
 
 ## Project Structure
 
+```text id="k9v2aa"
 lib/
 │
 ├── main.dart
@@ -123,7 +124,7 @@ lib/
 ├── profile.dart
 ├── personalinfo.dart
 └── help.dart
-
+```
 
 ---
 
@@ -145,19 +146,25 @@ lib/
 
 ## Installation
 
-1. Navigate to project folder
+1. Clone the project
+
+```bash id="q1n3sa"
+git clone https://github.com/ShashikaNavodya/Mini-E-commerce-Flutter-App
+```
+
+2. Navigate to project folder
 
 ```bash id="r7m2bb"
 cd apex_e_commerce_app
 ```
 
-2. Install dependencies
+3. Install dependencies
 
 ```bash id="t8k4dd"
 flutter pub get
 ```
 
-3. Run the application
+4. Run the application
 
 ```bash id="u2p9ff"
 flutter run
@@ -181,7 +188,7 @@ flutter run
 
 Shashika Suraweera
 
-Software Engineering Undergraduate
+Management Information Systems Undergraduate
 
 ---
 
